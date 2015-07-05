@@ -2,5 +2,5 @@
 ro.sf.lcd_density=440
 
 # Addon.d needs
-ro.cm.version=12.1.cm_yuga
+ro.cm.version=12.1.cm_odin
 
